@@ -11,7 +11,7 @@ Analysis of the segmentation and purchase dataset of a retail store
 
 ### Customer Segmentation
 
-- See jupyter notebook file for [customer segmentation]()
+- See jupyter notebook file for [customer segmentation](https://github.com/uedwinc/Retail-Store-Customer-Analytics-in-Python/blob/main/Customer%20Analytics%20-%20Segmentation/Customer%20Analytics%20-%20Segmentation.ipynb)
 
 - We employed correlation heatmap to see the correlation between different variables of the dataset
 
@@ -25,7 +25,7 @@ Analysis of the segmentation and purchase dataset of a retail store
 
 ### Customer Purchase Descriptive Analysis
 
-- See jupyter notebook file for [customer purchase descriptive analysis]()
+- See jupyter notebook file for [customer purchase descriptive analysis](https://github.com/uedwinc/Retail-Store-Customer-Analytics-in-Python/blob/main/Purchase%20Analytics%20-%20Descriptive%20and%20Predictive/Purchase%20Analytics%20-%20Descriptive.ipynb)
 
 - We determined the proportions of the different cluster segments in the purchse data based on the number of purchases
 
@@ -38,11 +38,11 @@ Analysis of the segmentation and purchase dataset of a retail store
 
 - We also obtained the average number of store visits by segments and the average number of purchases by segment
 
-![store visits]() ![purchases]()
+![store visits](https://github.com/uedwinc/Retail-Store-Customer-Analytics-in-Python/blob/main/images/store%20visits.png)  ![purchases](https://github.com/uedwinc/Retail-Store-Customer-Analytics-in-Python/blob/main/images/purchases.png)
 
 - Finally, we obtained the brand preference of the different segments and their contributions to the brand revenue
 
-![brand choice]()
+![brand choice](https://github.com/uedwinc/Retail-Store-Customer-Analytics-in-Python/blob/main/images/brand%20choice.png)
 
 |Segment|Total Revenue|
 |---|---|
@@ -53,7 +53,7 @@ Analysis of the segmentation and purchase dataset of a retail store
 
 ### Customer Purchase Predictive Analysis
 
-- See jupyter notebook file for [customer purchase predictive analysis]()
+- See jupyter notebook file for [customer purchase predictive analysis](https://github.com/uedwinc/Retail-Store-Customer-Analytics-in-Python/blob/main/Purchase%20Analytics%20-%20Descriptive%20and%20Predictive/Purchase%20Analytics%20-%20Predictive.ipynb)
 
 - We created a purchase probability model for our customers based on price
 
